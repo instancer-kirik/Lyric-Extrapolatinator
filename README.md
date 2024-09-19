@@ -1,5 +1,5 @@
 # Lyric-Extrapolatinator
-
+a bag of words approach that determines first the possible genres of your input lyric stem, and of the top contenders, displays suggested words within those genres with confidence for assistance songwriting
 
 Read the writeup before attempting to run
 
